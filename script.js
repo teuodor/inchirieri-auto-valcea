@@ -17,7 +17,7 @@ function click_contact(){
         sandero.src = "resources/golan-resized.png"
         sandero.classList.add("golan")
         let promo = document.getElementById("second-text")
-        promo.innerHTML = '<h1>PRE&#354;URI &#206;NCEP&#194;ND <br>DE LA 60 LEI/ZI!!!</h1>'
+        promo.innerHTML = '<h1>PRE&#354;URI &#206;NCEP&#194;ND DE LA 60 LEI/ZI!!!</h1>'
     }
     
 }
