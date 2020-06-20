@@ -103,11 +103,11 @@ ul{
         margin: auto;
     }
     #first-text{
-        width: 80%;
+        width:100%;
         margin-left: 20px;
     }
     #second-text{
-        width: 80%;
+        width: 100%;
         margin-left: 20px;
         margin-bottom: 50px;
         order: 1;
