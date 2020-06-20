@@ -114,9 +114,11 @@ ul{
     }
     .sandero-logan{
         margin-top: 0px;
+        width: inherit;
     }
     .opel-break{
         margin-left: 0px;
+        width: inherit;
     }
     #promo{
         margin-left: 0px;
