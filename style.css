@@ -36,7 +36,9 @@ ul{
     margin-left: 100px;
     font-size: large;
 }
-
+#first-text label{
+    color: white;
+}
 
 #promo{
     display: flex;

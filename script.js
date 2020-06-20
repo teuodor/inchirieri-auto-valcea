@@ -30,7 +30,7 @@ function click_about_us(){
         about_us.classList.add("active")
         let app_text = document.getElementById("first-text") 
         let slogan = '<h1>&#206;nchirieri auto V&#226;lcea</h1>'
-        let par = '<p class="paragraph">Cu o experien&#355;&#259; &#238;n domeniu de peste 10 ani, firma noastr&#259; Saturn Auto SRL v&#259; pune la dispozi&#355;ie o gam&#259; de ma&#351;ini fiabile precum Dacia Sandero, Dacia Logan break sau berlina, Opel Corsa &#351;i altele &#238;n func&#355;ie de disponibilitate. Oferta noastr&#259; variaz&#259; &#238;n func&#355;ie de durata contractului de &#238;nchiriere &#351;i include asigurarea obligatorie, ITP, rovigneta cu pre&#355;uri cuprinse &#238;ntre &#351;i &#238;ntre.<br><b><strong>PRE&#354;URI &#206;NCEP&#194;ND DE LA 60 LEI/ZI!!!</strong></b></p>'
+        let par = '<p class="paragraph">Cu o experien&#355;&#259; &#238;n domeniu de peste 10 ani, firma noastr&#259; Saturn Auto SRL v&#259; pune la dispozi&#355;ie o gam&#259; de ma&#351;ini fiabile precum Dacia Sandero, Dacia Logan break sau berlina, Opel Corsa &#351;i altele &#238;n func&#355;ie de disponibilitate. Oferta noastr&#259; variaz&#259; &#238;n func&#355;ie de durata contractului de &#238;nchiriere &#351;i include asigurarea obligatorie, ITP, rovigneta cu pre&#355;uri cuprinse &#238;ntre &#351;i &#238;ntre.<br><strong><label>PRE&#354;URI &#206;NCEP&#194;ND DE LA 60 LEI/ZI!!!</label></strong></p>'
         let text = slogan + par
         app_text.innerHTML = text
         let opel = document.getElementsByClassName("opel-break")[0]
