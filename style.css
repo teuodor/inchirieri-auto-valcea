@@ -110,6 +110,7 @@ ul{
         width: 80%;
         margin-left: 20px;
         margin-bottom: 50px;
+        order: 1;
     }
     .sandero-logan{
         margin-top: 0px;
@@ -123,6 +124,10 @@ ul{
     #app-up{
         margin-left: 0px;
     }
+    #sandero-logan{
+        order: 2;
+    }
+
 }
 
 @media screen and (min-height: 900px) and (min-width: 1340px){
